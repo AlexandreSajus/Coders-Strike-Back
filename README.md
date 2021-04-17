@@ -8,5 +8,5 @@ Currently Top 8% (out of 120 000 participants)
 ![](race.gif)
 
 Team members:
-Alexandre Sajus: https://github.com/AlexandreSajus
+Alexandre Sajus: https://github.com/AlexandreSajus ;
 Fabien Roger: https://github.com/FabienRoger
