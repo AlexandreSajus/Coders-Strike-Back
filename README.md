@@ -3,7 +3,7 @@ Our Top 2% (out of 120,000 participants) submission to the Pod Racing AI Competi
 
 https://www.codingame.com/multiplayer/bot-programming/coders-strike-back
 
-![](race2.mp4)
+![](race2.gif)
 
 Team members:
 Alexandre Sajus: https://github.com/AlexandreSajus ;
