@@ -5,6 +5,8 @@ https://www.codingame.com/multiplayer/bot-programming/coders-strike-back
 
 ![](race2.gif)
 
+Here's a replay of one of our races: https://www.codingame.com/replay/541601483
+
 Team members:
 Alexandre Sajus: https://github.com/AlexandreSajus ;
 Fabien Roger: https://github.com/FabienRoger
